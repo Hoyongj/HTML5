@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "superHex";
+    src: url("../data/bumpitup.ttf");
+}
+
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    /* font-family: TRY Verdana ELIF Geneva ... */
+    /* PARAMETER: sans-serif, serif, monospace, cursive, fantasy */
+    /* sans-serif = without serif */
+    /* cursive = handwritten */
+    /* fantasy = stylized decorative */
+
+    font-size: 14px;
+
+    color: silver;
+
+    font-weight: bold;
+    /* PARAMETER: lighter, normal, bold, bolder */
+
+    text-decoration: underline;
+    /* none, underline, overline, line-through */
+
+
+}
+
+h1 {
+    font-family: "superHex", sans-serif;
+}
