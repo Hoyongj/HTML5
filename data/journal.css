@@ -1,7 +1,7 @@
 @font-face {
     font-family: "superHex";
     src: url("../data/bumpitup.woff"),
-    url("../data/bumpitup.ttf");
+        url("../data/bumpitup.ttf");
 }
 
 body {
@@ -22,16 +22,21 @@ body {
     text-decoration: underline;
     /* none, underline, overline, line-through */
 
-
+    background-color: rgb(80%,40%,0%);
 }
 
 h1 {
     font-family: "superHex", sans-serif;
     font-size: 150%;
+    background-color: rgb(204,102,0);
 }
 
 h2 {
     font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
+    background-color: #cc6600;
+    /* PARAMETER: italic, oblique */
 }
 
 h3 {
