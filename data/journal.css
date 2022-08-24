@@ -1,6 +1,7 @@
 @font-face {
     font-family: "superHex";
-    src: url("../data/bumpitup.ttf");
+    src: url("../data/bumpitup.woff"),
+    url("../data/bumpitup.ttf");
 }
 
 body {
