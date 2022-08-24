@@ -26,4 +26,13 @@ body {
 
 h1 {
     font-family: "superHex", sans-serif;
+    font-size: 150%;
+}
+
+h2 {
+    font-size: 1.2em;
+}
+
+h3 {
+    font-size: large;
 }
