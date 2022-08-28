@@ -1,0 +1,32 @@
+h2 {
+    font-size: 1.2em;
+    font-weight: normal;
+    font-style: italic;
+    background-color: #641100;
+    /* PARAMETER: italic, oblique */
+    color: yellow;
+}
+
+
+.guarantee {
+    /* Class: can be one or more */
+    border-color: black;
+    border-width: 1px;
+    
+    border-style: solid;
+    /* P: solid, dotted, double, dashed, groove, inset, outset, ridge */
+    
+    background-color: #a7cece;
+    padding: 25px;
+    margin: 30px;
+    background-image: url(background.webp);
+    background-repeat: no-repeat;
+    background-position: top left;
+    border-radius: 15px;
+    border-color: green;
+}
+
+#footer {
+    /* ID: only one */
+    color: maroon;
+}
