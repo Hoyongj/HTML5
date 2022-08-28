@@ -1,0 +1,21 @@
+@media screen and (min-device-width: 481px) {
+    #footer {
+        margin-right: 250px;
+    }
+}
+
+@media screen and (max-device-width: 480px) {
+    #footer {
+        margin-right: 30px;
+    }
+}
+
+@media print {
+    footer {
+        font-family: Times, "Times New Roman", serif;
+    }
+}
+
+p.specials {
+    color: red
+}

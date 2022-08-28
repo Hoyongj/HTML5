@@ -22,11 +22,13 @@ h2 {
     background-image: url(background.webp);
     background-repeat: no-repeat;
     background-position: top left;
+    line-height: 1.6em;
     border-radius: 15px;
     border-color: green;
+    color: wheat;
 }
 
 #footer {
     /* ID: only one */
-    color: maroon;
+    color: blue;
 }
